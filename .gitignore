@@ -1,13 +1,10 @@
-<<<<<<< HEAD
 *.iml
-.gradle
 /local.properties
 /.idea/workspace.xml
 /.idea/libraries
 .DS_Store
-/build
 /captures
-=======
+
 # Built application files
 *.apk
 *.ap_
@@ -48,4 +45,3 @@ captures/
 
 # Keystore files
 *.jks
->>>>>>> fb3f087dd348f62504aec30bdc853f7aa58838c1
